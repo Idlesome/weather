@@ -1,5 +1,7 @@
 A basic weather forecast app.
 
+Live demo at: [idlesome-weather.surge.sh](https://idlesome-weather.surge.sh)
+
 # TODO
 
 - More code coverage (note: coverage reports are missing files that aren't imported by tests)
