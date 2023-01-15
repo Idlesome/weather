@@ -7,3 +7,4 @@ A basic weather forecast app.
 - I18n
 - MSW
 - Asses most useful places for error boundaries and add them
+- Move requests to BFF (API token should not be left on FE!)
