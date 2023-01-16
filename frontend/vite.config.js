@@ -15,6 +15,7 @@ export default defineConfig({
     css: true,
     coverage: {
       provider: 'istanbul',
+      all: true,
     },
   },
   resolve: {
